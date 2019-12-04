@@ -1,1 +1,13 @@
+[carbs]
+rice
+pasta
 tacos
+
+
+[protein]
+steak
+chicken wings
+
+[fats]
+avocado
+peanut butter
