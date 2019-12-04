@@ -1,1 +1,11 @@
+[carbs]
 rice
+pasta
+
+[protein]
+steak
+chicken wings
+
+[fats]
+avocado
+peanut butter
