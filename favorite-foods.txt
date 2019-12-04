@@ -1,6 +1,8 @@
 [carbs]
 rice
 pasta
+tacos
+
 
 [protein]
 steak
